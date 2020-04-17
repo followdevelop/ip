@@ -19,3 +19,13 @@ wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 vie abr 17 09:21:04 -05 2020
+wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.35  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::90af:718f:e85d:a88e  prefixlen 64  scopeid 0x20<link>
+        ether 00:24:d2:36:6e:51  txqueuelen 1000  (Ethernet)
+        RX packets 804  bytes 102818 (102.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 443  bytes 54720 (54.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vie abr 17 09:21:54 -05 2020
