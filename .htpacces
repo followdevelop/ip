@@ -1,0 +1,10 @@
+# BEGIN WordPress
+# Las directivas (líneas) entre `BEGIN WordPress` y `END WordPress` se generan dinámicamente
+# , y solo se deberían modificar mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores se sobreescribirán.
+php_value upload_max_filesize 3128M
+php_value post_max_size 3128M
+php_value memory_limit 3256M
+php_value max_execution_time 1300
+php_value max_input_time 1300
+# END WordPress
